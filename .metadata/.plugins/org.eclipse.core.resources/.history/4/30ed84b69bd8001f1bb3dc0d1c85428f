@@ -1,0 +1,229 @@
+package ak;
+import java.util.*;
+import java.util.stream.Collectors;
+//
+//class  practice{
+//    private int rno,age;
+//    private String name;
+//  
+//	public practice(int rno, int age, String name) {
+//		super();
+//		this.rno = rno;
+//		this.age = age;
+//		this.name = name;
+//	}
+//
+//
+//
+//	@Override
+//	public String toString() {
+//		return "practice [rno=" + rno + ", age=" + age + ", name=" + name + "]";
+//	}
+//
+//
+//
+//	public int getRno() {
+//		return rno;
+//	}
+//
+//
+//
+//	public void setRno(int rno) {
+//		this.rno = rno;
+//	}
+//
+//
+//
+//	public int getAge() {
+//		return age;
+//	}
+//
+//
+//
+//	public void setAge(int age) {
+//		this.age = age;
+//	}
+//
+//
+//
+//	public String getName() {
+//		return name;
+//	}
+//
+//
+//
+//	public void setName(String name) {
+//		this.name = name;
+//	}
+//
+//
+//
+//	public static void main(String[] args) {
+//
+//		ArrayList<practice> ar = new ArrayList<practice>();
+//		ar.add(new practice(1,18,"Akash"));
+//		ar.add(new practice(2,25,"Ram"));
+//		ar.add(new practice(3,22,"Shyam"));
+//		ar.add(new practice(4,17,"Mahesh"));
+//
+//		System.out.println(ar);
+//		System.out.println("List after sorting in the basis of age..!");
+//		Collections.sort(ar,new Comparator<practice>() {   // Using Anonymous Class
+//			public int compare(practice p1,practice p2) {
+//				return Integer.compare(p1.getAge(), p2.getAge());
+//			}
+//		});
+//		System.out.println(ar);
+//		
+//	}
+//}
+
+
+//class practice {
+//	public static void main(String[] args) {
+//		
+//		Stack s = new Stack();
+//		s.push(10);
+//		s.push("AK");
+//		s.push(50);    //Add value in stack
+//		s.pop();      //Print topmost value in stack and then remove it
+//		s.search(50);  //Print the position of the value
+//		s.isEmpty();  //Check where stack is empty or not and returns boolean value
+//		s.peek();   //Print topmost value in stack
+//		
+//	}
+//}
+
+//class practice {
+//	public static void main(String[] args) {
+//
+//     List<Integer> l = Arrays.asList(10,21,30,66,85,82,99,75);
+//     List<Integer> l1 = new ArrayList<Integer>();
+//     List<Integer> l2 = new ArrayList<Integer>();
+//     for(int e:l) {
+//    	 if(e%2==0) {
+//    		 l1.add(e);	 
+//    	 }
+//    	 else {
+//    		 l2.add(e);
+//    	 }
+//     }
+//     System.out.println("Even no:"+l1);
+//     System.out.println("Odd no:"+l2);     
+//	}
+//}
+
+//Stream API
+
+//class practice{
+//	public static void main(String[] args) {
+//		List<Integer> l = Arrays.asList(1,2,3,4,5,6);
+//		List<Integer> l1 = l.stream().filter(a->a%2==0).collect(Collectors.toList());
+//		System.out.println(l1);
+//		l1.forEach(b->{System.out.println(b);});
+//		List<Integer> l2 = l.stream().map(n->n*n).collect(Collectors.toList());
+//		System.out.println(l2);
+//		l2.forEach(b->{System.out.println(b);});
+//		l2.stream().map(n->n*n).forEach(System.out::println);
+//		
+//		List<String> a = Arrays.asList("Akash","Ram","Shyam","Mahesh");
+//		List<String> a1 = a.stream().filter(n->n.startsWith("A")).collect(Collectors.toList());
+//		a1.forEach(b->{System.out.println(b);});
+//		List<String> a2 = a.stream().map(String::toUpperCase).collect(Collectors.toList());
+//		a2.forEach(b->{System.out.println(b);});
+		
+//		List<Integer> l = Arrays.asList(1,2,3,4,5,6);
+//		List<Integer> l2 = l.stream().map(a->a).collect(Collectors.toList());
+//		l2.forEach(b->{System.out.println(b);});
+		
+		//Queue
+		//Queue has same methods as stack but queue is operates in First In First Out(FIFO)..
+		//Queue does not have search method as stack...
+		
+//		ArrayDeque ad = new ArrayDeque();
+//		ad.push(10);
+//		ad.push(20);
+//		ad.add(50);
+//		ad.push(30);
+//		System.out.println(ad);
+//		ad.pop();
+//		System.out.println(ad);	
+
+        //PriorityQueue
+        //pq.poll->remove first element
+        //pq.remove->it also remove element which we specify but the value which we specify is not in array then it does not f=give error becoz it returns boolean value....
+        //It has same methods as stack
+//        PriorityQueue<Integer> pq =new PriorityQueue();
+//        pq.add(10);
+//        pq.add(2);
+//        pq.poll();
+//        pq.remove(2);
+//	}
+//}
+
+//class practice{
+//	public static void main(String[] args) {
+//		//Set
+//		Set s = new HashSet();   //HashSet does not sort elements while treeset sort elements then print
+//		s.add("Ak");   //Hashset does not allow duplicates value..it have 4 constructors....`it implements Set Interface..it is unordered collection...
+//		s.add("Bk");   //It is completely object based..does not provide get() method..it allow only one null value..
+//		s.add("Ck");
+//		System.out.println(s);
+//		System.out.println(s.contains("Ck"));
+//		s.remove("Bk");
+//		System.out.println(s);
+//
+//		//TreeSet -> While printing the elements firstly it sort then print...Both have same methods...
+//		TreeSet<Integer> ts = new TreeSet<Integer>();
+//		ts.add(62);
+//		ts.add(20);
+//		ts.add(64);
+//		System.out.println(ts);
+//	    System.out.println(ts.first());
+//	    
+//		
+//   
+//	}
+//}
+
+class practice{
+	public static void main(String[] args) {
+		
+		HashMap<Integer,String> m = new HashMap(); //It does not follow insertion order..HashMap sorted the elements on basis of key then print
+		m.put(1, "Ak");   
+		m.put(3, "Bk");
+		m.put(2, "Ck");
+		System.out.println(m);
+		
+		LinkedHashMap<Integer,String> m1 = new LinkedHashMap();  //It follows insertion order...does not sort elements..
+		m1.put(3, "River");
+		m1.put(1, "Mountain");
+		m1.put(2, "Lake");
+		System.out.println(m1);
+		
+		TreeMap<Integer,String> m2 = new TreeMap();   //It also sorted elements
+		m2.put(1, "Ak");
+		m2.put(3, "Bk");
+		m2.put(2, "Ck");
+		System.out.println(m2);
+		
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

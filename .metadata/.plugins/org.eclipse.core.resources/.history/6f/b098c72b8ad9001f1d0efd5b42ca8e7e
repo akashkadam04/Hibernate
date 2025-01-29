@@ -1,0 +1,5 @@
+package com.cofig;
+
+public class HIbernateUtil {
+
+}

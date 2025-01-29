@@ -1,0 +1,373 @@
+
+Jan 06, 2025 19:18:33.55 NEW SESSION
+Jan 06, 2025 19:18:33.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 06, 2025 19:18:42.41 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 06, 2025 19:25:49.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 06, 2025 19:25:49.26 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 07, 2025 09:57:28.61 NEW SESSION
+Jan 07, 2025 09:57:28.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 09:57:28.62 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 07, 2025 17:31:09.45 NEW SESSION
+Jan 07, 2025 17:31:09.45 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 17:31:09.47 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 17:33:24.64 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 17:33:24.64 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 17:34:05.72 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 17:34:05.72 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 17:34:22.62 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 17:34:22.62 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 17:35:13.24 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 17:35:13.24 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:13:36.45 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:13:36.45 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:14:28.58 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:14:28.58 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:15:18.52 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:15:18.52 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:16:13.19 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:16:13.19 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:17:23.09 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:17:23.09 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:20:03.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:20:03.57 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:21:23.92 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:21:23.93 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:22:06.01 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:22:06.01 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:22:53.45 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:22:53.45 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 07, 2025 18:31:31.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 07, 2025 18:31:31.77 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 08, 2025 17:54:13.09 NEW SESSION
+Jan 08, 2025 17:54:13.09 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 17:54:13.10 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 17:55:01.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 17:55:01.25 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 17:55:39.68 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 17:55:39.68 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:00:08.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:00:08.37 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:00:25.20 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:00:25.20 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:13:10.78 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:13:10.78 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:14:49.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:14:49.37 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:26:28.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:26:28.56 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:38:06.40 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:38:06.40 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:39:34.23 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:39:34.23 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:40:42.86 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:40:42.86 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:40:56.79 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:40:56.79 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:44:44.14 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:44:44.14 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 18:52:39.11 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 18:52:39.11 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 08, 2025 19:57:39.85 NEW SESSION
+Jan 08, 2025 19:57:39.86 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 19:57:39.87 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 20:04:01.49 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 20:04:01.49 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 20:06:12.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 20:06:12.43 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 20:16:47.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 20:16:47.55 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 08, 2025 20:55:08.50 NEW SESSION
+Jan 08, 2025 20:55:08.51 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 20:55:08.51 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 20:56:21.65 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 20:56:21.65 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 20:57:53.50 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 20:57:53.50 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 20:58:59.66 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 20:58:59.66 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 08, 2025 20:59:52.33 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 08, 2025 20:59:52.33 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 09, 2025 09:30:56.86 NEW SESSION
+Jan 09, 2025 09:30:56.87 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 09:30:56.91 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 09:37:52.09 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 09:37:52.09 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 09:39:00.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 09:39:00.26 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 09:40:21.82 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 09:40:21.82 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 09:41:47.71 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 09:41:47.71 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 09:49:16.72 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 09:49:16.73 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 09, 2025 17:29:37.13 NEW SESSION
+Jan 09, 2025 17:29:37.13 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 17:29:37.14 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 18:13:39.50 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 18:13:39.50 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 18:14:01.67 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 18:14:01.67 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 18:14:31.98 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 18:14:31.98 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 18:52:38.06 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 18:52:38.06 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 18:56:24.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 18:56:24.37 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 18:57:37.02 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 18:57:37.02 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 19:02:46.58 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 19:02:46.58 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 19:04:03.84 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 19:04:03.84 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 19:08:16.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 19:08:16.61 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 09, 2025 19:22:09.49 NEW SESSION
+Jan 09, 2025 19:22:09.50 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 19:22:09.50 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 19:25:10.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 19:25:10.55 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 19:27:19.17 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 19:27:19.17 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 09, 2025 20:05:26.72 NEW SESSION
+Jan 09, 2025 20:05:26.73 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 20:05:26.75 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 20:07:24.08 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 20:07:24.08 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 20:10:42.17 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 20:10:42.17 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 20:12:42.31 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 20:12:42.32 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 09, 2025 20:14:00.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 09, 2025 20:14:00.57 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 10, 2025 18:20:51.75 NEW SESSION
+Jan 10, 2025 18:20:51.75 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 10, 2025 18:20:51.76 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 10, 2025 18:23:31.23 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 10, 2025 18:23:31.23 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 10, 2025 18:23:48.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 10, 2025 18:23:48.37 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 10, 2025 18:24:24.04 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 10, 2025 18:24:24.05 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 10, 2025 18:32:14.06 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 10, 2025 18:32:14.06 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 11, 2025 09:53:56.45 NEW SESSION
+Jan 11, 2025 09:53:56.46 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 09:53:56.47 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 10:18:47.94 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 10:18:47.95 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 10:24:19.41 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 10:24:19.43 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 10:41:21.61 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 10:41:21.61 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 10:42:04.56 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 10:42:04.56 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 10:52:19.08 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 10:52:19.08 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 11:02:02.17 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 11:02:02.17 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 11:02:40.97 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 11:02:40.97 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 11:03:39.01 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 11:03:39.03 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 11:06:37.71 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 11:06:37.75 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 11:19:20.00 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 11:19:20.00 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 11, 2025 15:52:51.41 NEW SESSION
+Jan 11, 2025 15:52:51.42 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 15:52:51.43 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 15:56:20.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 15:56:20.25 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 16:02:00.99 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 16:02:00.99 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 16:04:59.45 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 16:04:59.45 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 16:05:34.15 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 16:05:34.15 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 11, 2025 22:11:48.74 NEW SESSION
+Jan 11, 2025 22:11:48.74 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 22:11:48.75 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 22:46:09.38 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 22:46:09.38 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 22:54:07.84 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 22:54:07.84 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 22:57:10.17 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 22:57:10.17 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 22:59:41.11 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 22:59:41.11 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 23:02:34.54 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 23:02:34.54 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 23:03:18.76 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 23:03:18.76 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 11, 2025 23:11:41.19 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 11, 2025 23:11:41.19 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 12, 2025 17:02:04.91 NEW SESSION
+Jan 12, 2025 17:02:04.92 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 12, 2025 17:02:04.94 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 12, 2025 17:27:53.24 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 12, 2025 17:27:53.24 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 13, 2025 17:35:23.20 NEW SESSION
+Jan 13, 2025 17:35:23.21 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 17:35:23.22 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 17:38:14.02 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 17:38:14.02 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 18:04:49.15 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 18:04:49.15 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 18:23:24.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 18:23:24.81 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 18:35:17.16 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 18:35:17.18 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 18:35:29.32 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 18:35:29.34 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 18:40:38.58 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 18:40:38.60 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 18:50:58.48 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 18:50:58.50 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 19:09:24.77 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 19:09:24.79 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 19:15:13.64 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 19:15:13.64 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 13, 2025 20:21:49.95 NEW SESSION
+Jan 13, 2025 20:21:49.96 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 13, 2025 20:21:49.96 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 13, 2025 20:24:31.40 [13788:13496:0113/202431.404:ERROR:device_event_log_impl.cc(201)] [20:24:31.405] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 13, 2025 20:38:51.39 [13788:13496:0113/203851.396:ERROR:device_event_log_impl.cc(201)] [20:38:51.397] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jan 14, 2025 11:06:38.24 NEW SESSION
+Jan 14, 2025 11:06:38.25 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 11:06:38.26 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 14, 2025 17:09:49.58 NEW SESSION
+Jan 14, 2025 17:09:49.58 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 17:09:49.59 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 14, 2025 17:12:13.02 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 17:12:13.03 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 14, 2025 17:37:42.35 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 17:37:42.35 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 14, 2025 18:15:28.01 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 18:15:28.01 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 14, 2025 18:42:20.14 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 18:42:20.14 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 14, 2025 19:12:08.69 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 19:12:08.69 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 14, 2025 20:12:08.47 NEW SESSION
+Jan 14, 2025 20:12:08.48 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 20:12:08.50 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 14, 2025 20:12:31.69 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 20:12:31.70 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 14, 2025 20:12:52.70 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 14, 2025 20:12:52.72 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 15, 2025 09:29:30.74 NEW SESSION
+Jan 15, 2025 09:29:30.74 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 15, 2025 09:29:30.75 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 15, 2025 09:31:41.37 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 15, 2025 09:31:41.37 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 15, 2025 09:38:56.28 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 15, 2025 09:38:56.29 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 15, 2025 09:44:39.95 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 15, 2025 09:44:39.97 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 15, 2025 09:49:45.80 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 15, 2025 09:49:45.80 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 15, 2025 09:52:47.42 NEW SESSION
+Jan 15, 2025 09:52:47.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 15, 2025 09:52:47.43 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 15, 2025 17:26:27.00 NEW SESSION
+Jan 15, 2025 17:26:27.02 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 15, 2025 17:26:27.03 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 15, 2025 17:49:57.04 NEW SESSION
+Jan 15, 2025 17:49:57.05 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 15, 2025 17:49:57.08 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 15, 2025 20:06:46.87 NEW SESSION
+Jan 15, 2025 20:06:46.88 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 15, 2025 20:06:46.90 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 16, 2025 09:32:17.49 NEW SESSION
+Jan 16, 2025 09:32:17.49 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 09:32:17.52 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 16, 2025 09:47:37.83 NEW SESSION
+Jan 16, 2025 09:47:37.83 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 09:47:37.83 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 09:58:08.51 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 09:58:08.51 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 10:01:29.91 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 10:01:29.91 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 16, 2025 16:43:34.54 NEW SESSION
+Jan 16, 2025 16:43:34.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 16:43:34.57 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 16:44:54.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 16:44:54.58 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 17:13:12.76 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 17:13:12.77 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 16, 2025 17:28:30.57 NEW SESSION
+Jan 16, 2025 17:28:30.57 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 17:28:30.57 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 17:29:42.04 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 17:29:42.04 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 17:36:42.20 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 16, 2025 17:36:42.20 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 16, 2025 17:39:25.78 [12704:13160:0116/173925.783:ERROR:device_event_log_impl.cc(201)] [17:39:25.783] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Jan 17, 2025 16:33:11.07 NEW SESSION
+Jan 17, 2025 16:33:11.08 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2025 16:33:11.08 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 17, 2025 17:43:57.45 NEW SESSION
+Jan 17, 2025 17:43:57.45 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2025 17:43:57.46 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 17, 2025 17:46:36.81 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2025 17:46:36.81 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 17, 2025 19:04:30.88 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2025 19:04:30.88 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 17, 2025 19:04:44.52 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2025 19:04:44.52 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 17, 2025 20:16:23.53 NEW SESSION
+Jan 17, 2025 20:16:23.54 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2025 20:16:23.56 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 17, 2025 20:24:04.41 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 17, 2025 20:24:04.41 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 20, 2025 10:35:22.43 NEW SESSION
+Jan 20, 2025 10:35:22.43 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 20, 2025 10:35:22.46 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+
+Jan 20, 2025 19:49:56.26 NEW SESSION
+Jan 20, 2025 19:49:56.26 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 20, 2025 19:49:56.27 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 20, 2025 19:52:19.84 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 20, 2025 19:52:19.84 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 20, 2025 19:53:34.64 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 20, 2025 19:53:34.65 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 20, 2025 19:57:26.41 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 20, 2025 19:57:26.41 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 20, 2025 20:06:01.44 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 20, 2025 20:06:01.44 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 20, 2025 20:30:40.63 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 20, 2025 20:30:40.63 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).
+Jan 20, 2025 20:35:16.55 Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 20, 2025 20:35:16.55 Attempting to use a delegate that only supports static-sized tensors with a graph that has dynamic-sized tensors (tensor#-1 is a dynamic-sized tensor).

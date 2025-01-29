@@ -1,0 +1,15 @@
+1737464150791	Delete element
+1737465641454	Extract method 'insertRecord'
+1737465739072	Extract method 'getRecord'
+1737465802774	Extract method 'deleteRecord'
+1737465890896	Extract method 'updateRecord'
+1737466549389	Extract method 'updateName'
+1737466638856	Extract method 'updateAddress'
+1737466682264	Extract method 'updateMobileNo'
+1737466721972	Extract method 'updateType'
+1737466747765	Extract method 'updateGender'
+1737518293226	Extract method 'depositAmount'
+1737518474342	Extract method 'withdrawAmount'
+1737520585690	Delete element
+1737548112084	Delete element
+1737548677991	Copy package
