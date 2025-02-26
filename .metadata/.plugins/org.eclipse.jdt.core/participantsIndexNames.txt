@@ -1,7 +1,0 @@
-INDEX VERSION 1.134
-C:\Users\Lenovo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1613286339.index
-\JSP\src\main\java
-C:\Users\Lenovo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1521563967.index
-\Pharmacy\src\main\java
-C:\Users\Lenovo\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2317869974.index
-\MVC\src\main\java

@@ -1,9 +1,0 @@
-1737034605188	Delete element
-1737086572987	Extract method 'insertRecord'
-1737086668628	Extract method 'getRecord'
-1737086775633	Extract method 'deleteRecord'
-1737086934310	Extract method 'updateRecord'
-1737119712584	Extract method 'getDatabyHQL'
-1737120099991	Extract method 'deleteRecordbyHQl'
-1737120432875	Extract method 'updaterecordbyHQL'
-1737121900600	Extract method 'getdatabySQL'
